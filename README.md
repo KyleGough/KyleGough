@@ -1,16 +1,8 @@
-# Hello, I'm Kyle
+<h1 align="center">Hello, I'm Kyle</h1>
 
-<p>Front-End Engineer at Atom Learning and Computer Science MEng graduate of the University of Warwick. Interests lie in bouldering, cycling, guitar, movies, and physics. I enjoy learning new languages, frameworks and technologies and have pursued multiple personal projects putting these skills into practice, detailed on my website.</p>
+<p align="center">Front-End Engineer at Atom Learning. Computer Science MEng graduate of the University of Warwick.</p>
 
-- Website: https://kylegough.co.uk
-- 🔭 I’m currently working on my portfolio website.
-- 🌱 I’m currently learning TypeScript, ESLint, CI/CD.
-
-<h3 align="left">Languages and Tools:</h3>
-
-<h4 align="left">Front-End</h4>
-<p align="left">
-
+<p align="center">
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -55,12 +47,9 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  
 </p>
 
-<h4 align="left">Programming Languages</h4>
-<p align="left">
-
+<p align="center">
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -80,11 +69,17 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
+  
+  <!-- C# -->
+  
+  <!-- C++ -->
 
   <!-- Haskell -->
   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
-  </a> 
+  </a>
+  
+  <!-- Ruby -->
   
   <!-- PHP -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -95,12 +90,9 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
-
 </p>
 
-<h4 align="left">Other</h4>
-<p align="left">
-
+<p align="center">
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -119,6 +111,12 @@
   <!-- Heroku -->
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>   
-
+  </a>
+  
+  <!-- LaTeX -->
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
+  </a>
 </p>
+
+<h3 align="center">See my projects at <a href="https://kylegough.co.uk" target="_blank" rel="noreferrer">kylegough.co.uk</a></h3>
