@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Kyle</h1>
+<h1 align="center">Hello, I'm Kyle :metal:</h1>
 
 <br />
 
