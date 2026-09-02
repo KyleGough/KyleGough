@@ -13,6 +13,7 @@
 <div align="center">
   <strong>Websites</strong><br />
   <a href="https://kylegough.co.uk">kylegough.co.uk</a><br />
+  <a href="https://kylegough.github.io/qubit-evolution/">Qubit Evolution</a><br />
   <a href="https://www.ai-space-telescope.com/">AI Space Telescope</a><br />
   <a href="https://kylegough.github.io/graph-algorithm-visualiser/">Graph Algorithm Visualiser</a>
 </div>
